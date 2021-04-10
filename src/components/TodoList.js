@@ -13,6 +13,7 @@ import TodoForm from './TodoForm'
 
 // const cb = new ClearBlade();
 
+// *** Could not find proper documentation to properly initialize CB
 // cb.init({
 // https: "platform.clearblade.com", // e.g., 'https://platform.clearblade.com'
 //   systemKey: "theSystemKey",
